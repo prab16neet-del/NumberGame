@@ -16,6 +16,6 @@ The program generates a random number between 1 and 100, and the user has to gue
 
   ## Output
 
-![Program Output](number guessing program output.png)
+![Program Output](number%20guessing%20program%20output.png)
 
 Created by Prabhneet Kaur
